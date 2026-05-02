@@ -94,7 +94,7 @@ if (cards.length) {
 /* ═══════════════════════════════════════════════
    WHATSAPP ORDER FORM
 ═══════════════════════════════════════════════ */
-const WA_NUMBER  = '917276080021';   // country code + number, no +
+const WA_NUMBER  = '917249762723 ';   // country code + number, no +
 const orderForm  = document.getElementById('orderForm');
 const formError  = document.getElementById('formError');
 const formErrorMsg = document.getElementById('formErrorMsg');
